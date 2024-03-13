@@ -1,0 +1,3 @@
+*.patch
+*.cache
+node_modules

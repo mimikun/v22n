@@ -1,0 +1,17 @@
+{
+  "name": "rsstea",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "live-server --port=8000 ./public",
+    "format": "prettier --write .",
+    "fmt": "prettier --write .",
+    "test": "prettier --check .",
+    "lint": "prettier --check ."
+  },
+  "license": "GPL",
+  "devDependencies": {
+    "prettier": "^3.1.0",
+    "live-server": "^1.2.2"
+  }
+}
